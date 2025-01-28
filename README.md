@@ -66,6 +66,7 @@ Clariana Abreu
 Ex-militar, apaixonada por programação e focada em criar projetos interativos e didáticos.
 
 📜 Licença
+
 Este projeto é de uso livre para fins educacionais e pessoais.
 Se utilizar este código, considere deixar uma estrela ⭐ no repositório!
 
