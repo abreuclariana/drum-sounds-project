@@ -16,7 +16,6 @@
 
 ![Drum Sounds Preview](/Projeto-bateria-start/assets/drum-preview.png)
 
-> **Nota:** Inclua um GIF ou imagem de demonstração do projeto no local indicado acima.
 
 ---
 
