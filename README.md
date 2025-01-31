@@ -35,7 +35,7 @@
 
 ## 🔧 Como Instalar e Executar o Projeto
 
-1. Clone este repositório e depois navegue atpe o diretório:  
+1. Clone este repositório e depois navegue até o diretório:  
 
    ```bash
    git clone https://github.com/seu-usuario/drum-sounds-project.git
